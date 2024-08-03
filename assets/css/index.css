@@ -228,8 +228,12 @@ nav ul li a {
 }
 .footer-section p,
 .footer-section a {
-    color: #ffffff;
+    color: #cfcccc;
     text-decoration: none;
+}
+
+.footer-section h3{
+    color: #fff;
 }
 .footer-section p {
     margin: 10px 0;
